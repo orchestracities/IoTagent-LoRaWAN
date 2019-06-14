@@ -22,7 +22,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "cbor-sync": "^1.0.3",
-    "iotagent-node-lib": "git://github.com/telefonicaid/iotagent-node-lib",
+    "iotagent-node-lib": "git://github.com/orchestracities/iotagent-node-lib.git#fix/iotagent-manager-payload",
     "mqtt": "^2.18.8",
     "request": "^2.88.0",
     "winston": "^3.1.0"
