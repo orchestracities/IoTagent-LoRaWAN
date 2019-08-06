@@ -37,7 +37,7 @@ config.iota = {
      * When this flag is active, the IoTAgent will use JEXL as expression plugin.
      */
 
-    useJEXL: false,
+    useJEXL: true,
 
     /**
      * Context Broker configuration. Defines the connection information to the instance of the Context Broker where
